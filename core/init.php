@@ -3,10 +3,10 @@
 session_start();
 $GLOBALS['config'] = array(
     'db' => array(
-        'host' => 'localhost',
-        'name' => 'epam-todo',
-        'user' => 'root',
-        'pass' => 'root'
+        'host' => '',
+        'name' => '',
+        'user' => '',
+        'pass' => ''
     )
 );
 
